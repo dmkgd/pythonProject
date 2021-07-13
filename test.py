@@ -1,0 +1,1 @@
+print("I have deleted file.py")
